@@ -13,7 +13,7 @@ How to Run:
 
 1) Open the notebook in Google Colab or your preferred environment.
 
-2)Make sure you have the required libraries installed.
+2) Make sure you have the required libraries installed.
 
 Run the cells — the image will be loaded automatically from the given path.
 
